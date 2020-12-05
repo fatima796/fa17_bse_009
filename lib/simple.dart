@@ -4,7 +4,7 @@ class simple extends StatefulWidget {
   _simpleState createState() => _simpleState();
 }
 
-class _simpleState extends State<simple> {
+class _simplestate extends State<simple> {
   @override
   Widget build(BuildContext context) {
     return Container();
